@@ -17,6 +17,10 @@
 
 ▶️ **[点击观看 Bilibili 演示](https://www.bilibili.com/video/BV1Enjt6nEJ8/)**
 
+<!-- bilibili-stats:start -->
+![播放](https://img.shields.io/badge/播放---00a1d6?logo=bilibili&logoColor=white) ![点赞](https://img.shields.io/badge/点赞---fb7299?logo=bilibili&logoColor=white) ![投币](https://img.shields.io/badge/投币---f9a825?logo=bilibili&logoColor=white)
+<!-- bilibili-stats:end -->
+
 ## 它能做什么
 
 - **主动提醒，无需开口**：第一视角持续观察，模型主动判断"此刻是否需要提醒"，语音 + 震动提示。
