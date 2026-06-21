@@ -1,0 +1,6 @@
+# 演示视频较大，不入库（放 Bilibili / Release）
+video/
+
+# 系统文件
+.DS_Store
+**/.DS_Store
