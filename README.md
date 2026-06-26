@@ -18,7 +18,7 @@
 ▶️ **[点击观看 Bilibili 演示](https://www.bilibili.com/video/BV1yp7h6zE6X/)**
 
 <!-- bilibili-stats:start -->
-![播放](https://img.shields.io/badge/播放-40-00a1d6?logo=bilibili&logoColor=white) ![点赞](https://img.shields.io/badge/点赞-6-fb7299?logo=bilibili&logoColor=white) ![投币](https://img.shields.io/badge/投币-6-f9a825?logo=bilibili&logoColor=white)
+![播放](https://img.shields.io/badge/播放-43-00a1d6?logo=bilibili&logoColor=white) ![点赞](https://img.shields.io/badge/点赞-6-fb7299?logo=bilibili&logoColor=white) ![投币](https://img.shields.io/badge/投币-6-f9a825?logo=bilibili&logoColor=white)
 <!-- bilibili-stats:end -->
 
 ## 它能做什么
