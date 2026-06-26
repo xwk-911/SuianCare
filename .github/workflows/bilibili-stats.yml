@@ -16,7 +16,7 @@ jobs:
 
       - name: Fetch stats & update README
         run: |
-          BVID=BV1Enjt6nEJ8
+          BVID=BV1yp7h6zE6X
           json=$(curl -s \
             -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)' \
             -H 'Referer: https://www.bilibili.com' \
